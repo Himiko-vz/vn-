@@ -55,7 +55,7 @@ const antilink = JSON.parse(fs.readFileSync('./database/antilink.json'))
 //DATAFILE
 img1 = fs.readFileSync('./gambar/thumb.jpg')
 img2 = fs.readFileSync('./gambar/fake.jpg')
-fakeyoi = ["Created By ZassXd"]
+fakeyoi = ["Created By Kevin"]
 api = ["https://myselfff.herokuapp.com/docs"]
 simbol = ["⇒"]
 const botName = setting.NamaBot
